@@ -59,6 +59,7 @@ INFURA_KEY=""
 
 # Optional Etherscan key, for automatize the verification of the contracts at Etherscan
 ETHERSCAN_KEY=""
+ETHERSCAN_NETWORK="kova"
 
 # Optional, if you plan to use Tenderly scripts
 TENDERLY_PROJECT=""
